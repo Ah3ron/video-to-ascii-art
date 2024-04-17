@@ -8,7 +8,7 @@ document.querySelector('#app').innerHTML = `
 `
 
 const videos = {
-  Synthwave: "../public/pretty cvnt.mp4",
+  Synthwave: "/public/pretty cvnt.mp4",
 };
 
 (() => {
